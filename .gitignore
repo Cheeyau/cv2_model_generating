@@ -5,6 +5,7 @@ __pycache__/
 
 /model/*
 .vscode
+result_model/*.h5
 645698_student_cv2_assignment.docx
 
 # C extensions
